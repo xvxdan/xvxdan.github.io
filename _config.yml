@@ -6,6 +6,6 @@ author:
 description: "All about me."
 
 # Build settings
-theme: minima
+remote_theme: minima
 minima:
   skin: dark
