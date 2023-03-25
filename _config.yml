@@ -7,5 +7,3 @@ description: "All about me."
 
 # Build settings
 remote_theme: minima
-minima:
-  skin: dark
