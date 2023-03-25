@@ -1,0 +1,9 @@
+# Site settings
+title: DP Website
+author:
+  name: Danny Pascual
+  email: dan4552pas@gmail.com
+description: "All about me."
+
+# Build settings
+remote_theme: jekyll/minima
