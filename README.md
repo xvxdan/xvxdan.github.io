@@ -1,2 +1,1 @@
-# xvxdan.github.io
-# Oh nigga you're gay!
+# This is Danny Pascual's personal website
