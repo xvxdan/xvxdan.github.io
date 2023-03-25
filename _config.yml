@@ -6,4 +6,4 @@ author:
 description: "All about me."
 
 # Build settings
-remote_theme: minima
+remote_theme: jekyll/minima
